@@ -72,6 +72,7 @@ You will work on a deep learning project in small groups implementing and experi
 
 ### Final Exam (30%)
 
-Written exam covering course material and concepts. TBD
+Written exam covering course material and concepts
+**Friday March 27, 14h-16h, Amphi 12E/Halles aux farines**
 
 
