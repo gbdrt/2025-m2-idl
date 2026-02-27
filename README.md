@@ -60,6 +60,12 @@ To access GPUs (for the TPs and the project), you can try https://datalab.sspclo
 - [TP: Techniques to Avoid Overfitting](7-deep/tp-overfitting.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/7-deep/tp-overfitting.ipynb)
 
 
+### 27/02/2026. Recurrent Neural Networks (RNNs)
+
+- [Recurrent Neural Networks](8-RNN/rnn.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/8-RNN/rnn.ipynb)
+- [TP: Predicting Engine Failure with RNN](8-RNN/tp-rnn-engine-failure.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/8-RNN/tp-rnn-engine-failure.ipynb)
+
+
 ## Evaluation
 
 ### Course Project (70%)
