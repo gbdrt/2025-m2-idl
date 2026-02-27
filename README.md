@@ -76,6 +76,8 @@ You will work on a deep learning project in small groups implementing and experi
 
 **Final presentation**: End of the period (30 minutes including Q&A)
 
+**[Register here](https://notes.inria.fr/GPFbEm1vSVqjkmcqWisf8g)**
+
 ### Final Exam (30%)
 
 Written exam covering course material and concepts
