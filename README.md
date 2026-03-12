@@ -69,6 +69,9 @@ To access GPUs (for the TPs and the project), you can try https://datalab.sspclo
 ### 06/03/2026. Large Language Models (LLMs)
 
 - [(Large) Language Models](9-LLM/llm.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/9-LLM/llm.ipynb)
+
+### 13/03/2026. LLM continued 
+
 - [TP: Text Generation with a Large Language Model](9-LLM/tp-llm-generation.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/9-LLM/tp-llm-generation.ipynb)
 
 
